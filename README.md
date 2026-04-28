@@ -139,7 +139,7 @@ SupplyShield/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/SupplyShield.git
+git clone https://github.com/Amriita04/SupplyShield-AI.git
 cd SupplyShield
 Backend Setup
 Node.js
